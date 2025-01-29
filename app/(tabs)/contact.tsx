@@ -1,5 +1,5 @@
 import { View, Text, StyleSheet, ImageBackground } from 'react-native'
-import icedCoffeeImg from '../../assets/images/iced-coffee.png'
+import icedCoffeeImg from '@/assets/images/iced-coffee.png'
 
 import React from 'react'
 
@@ -11,8 +11,7 @@ const app = () => {
       resizeMode='cover'
       style={styles.image}
       >
-        <Text style={styles.text}>Coffee Shop - Lesson02</Text>
-        
+        <Text style={styles.text}>Coffee Shop - Lesson03</Text>
         <Text style={styles.text}>Working Hours</Text>
         <Text style={styles.text}>Location</Text>
         <Text style={styles.text}>Still Working</Text>

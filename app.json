@@ -2,7 +2,7 @@
   "expo": {
     "name": "lesson01",
     "slug": "lesson01",
-    "version": "1.0.0",
+    "version": "0.0.3",
     "orientation": "portrait",
     "icon": "./assets/images/coffee-icon.png",
     "scheme": "myapp",
